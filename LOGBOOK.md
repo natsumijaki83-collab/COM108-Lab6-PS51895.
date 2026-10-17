@@ -1,8 +1,8 @@
 # NHẬT KÝ THỰC HIỆN LAB 6 (LOGBOOK)
 
-* **Họ và tên:** 
-* **Mã sinh viên:** 
-* **Link Repository cá nhân:** 
+* **Họ và tên: Nguyễn Hoàng Cương** 
+* **Mã sinh viên: PS51895** 
+* **Link Repository cá nhân: https://github.com/natsumijaki83-collab/COM108-Lab6-PS51895..git** 
 
 > [!NOTE]
 > **HƯỚNG DẪN DÀNH CHO KỶ NGUYÊN AI:**  
@@ -11,10 +11,10 @@
 ---
 
 ### Lần 1: Bài 1 - Bộ Lọc Làm Mịn Tín Hiệu (Moving Average)
-- Trạng thái: Chờ chấm
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: Failed
+- Prompt hỏi AI (nếu có): giải thích và fix lỗi ![alt text](screenshot_1792208832.png)
+- Lỗi phát hiện qua Test (nếu có): ![alt text](screenshot_1792207892.png)
+- Cách sửa / Bài học: thay "&&" thành ";" do && ko phù hợp với phiên bản Vscode
 
 ### Lần 2: Bài 1
 - Trạng thái: 
