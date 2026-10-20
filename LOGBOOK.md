@@ -18,7 +18,7 @@
 
 ### Lần 2: Bài 1
 - Trạng thái: chờ chấm
-- Lỗi / Cách sửa: thay "&&" thành ";" và cập nhật lại app
+- Lỗi / Cách sửa: 100% pass
 
 ### Lần 3: Bài 1 (Dự phòng)
 - Trạng thái: 
@@ -34,7 +34,7 @@
 
 ### Lần 5: Bài 2
 - Trạng thái: Chờ chấm
-- Lỗi / Cách sửa: code chạy được
+- Lỗi / Cách sửa: 100% pass
 
 ### Lần 6: Bài 2 (Dự phòng)
 - Trạng thái: 
@@ -43,13 +43,13 @@
 ---
 
 ### Lần 7: Bài 3 - Bộ Lọc Làm Mờ Điểm Ảnh (Box Blur Filter 3x3)
-- Trạng thái: 
-- Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Trạng thái: Failed
+- Prompt hỏi AI (nếu có): tại sao lại sai ![alt text](<Screenshot 2026-10-20 205656.png>)
+- Lỗi phát hiện qua Test (nếu có): thiếu phép chia ở cưới hàm
+- Cách sửa / Bài học: thêm phép chia nguyên vào cuối hàm
 
 ### Lần 8: Bài 3
-- Trạng thái: 
+- Trạng thái: Chờ chấm
 - Lỗi / Cách sửa: 
 
 ### Lần 9: Bài 3 (Dự phòng)
