@@ -17,8 +17,8 @@
 - Cách sửa / Bài học: thay "&&" thành ";" do && ko phù hợp với phiên bản Vscode
 
 ### Lần 2: Bài 1
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: chờ chấm
+- Lỗi / Cách sửa: thay "&&" thành ";" và cập nhật lại app
 
 ### Lần 3: Bài 1 (Dự phòng)
 - Trạng thái: 
@@ -27,14 +27,14 @@
 ---
 
 ### Lần 4: Bài 2 - Nén Sai Phân Dữ Liệu IoT (Delta Encoding)
-- Trạng thái: 
+- Trạng thái:failed
 - Prompt hỏi AI (nếu có): 
-- Lỗi phát hiện qua Test (nếu có): 
-- Cách sửa / Bài học: 
+- Lỗi phát hiện qua Test (nếu có):tại vòng lập "for" giainen thiếu dấu "+" trong phương thức "i++" và ; ở dưới vòng lập
+- Cách sửa / Bài học: thêm ";", "+" vào vòng lập "for" tại chổ còn thiếu
 
 ### Lần 5: Bài 2
-- Trạng thái: 
-- Lỗi / Cách sửa: 
+- Trạng thái: Chờ chấm
+- Lỗi / Cách sửa: code chạy được
 
 ### Lần 6: Bài 2 (Dự phòng)
 - Trạng thái: 
