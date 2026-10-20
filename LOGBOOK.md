@@ -50,7 +50,7 @@
 
 ### Lần 8: Bài 3
 - Trạng thái: Chờ chấm
-- Lỗi / Cách sửa: 
+- Lỗi / Cách sửa: 100% pass
 
 ### Lần 9: Bài 3 (Dự phòng)
 - Trạng thái: 
